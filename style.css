@@ -1,0 +1,80 @@
+.slider-bg {
+    background: #FEEAE9;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.price {
+    color: #FF297D;
+}
+
+.carousel-item {
+    padding: 20px 40px;
+}
+
+.buy-now-btn {
+    background-image: linear-gradient(to bottom, #FF297D, rgb(250, 79, 148));
+    border: none;
+    color: #fff;
+    padding: 8px 20px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.cat1 {
+    background-image: linear-gradient(to right, orange, rgb(250, 188, 72));
+}
+
+.cat2 {
+    background-image: linear-gradient(to right, orchid, rgb(231, 153, 229));
+}
+
+.cat3 {
+    background-image: linear-gradient(to right, rgb(77, 77, 247), blue);
+}
+
+.categories {
+    margin-top: 100px;
+}
+
+.categories h1 {
+    color: #fff;
+}
+
+.shoe {
+    margin-top: 120px;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.backpack {
+    margin: 100px auto;
+}
+
+.card-footer {
+    background: none;
+    border: none;
+}
